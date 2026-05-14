@@ -20,3 +20,4 @@ export const AppImages = {
     sorvetebaunilha : require('@/assets/images/sorvete-baunilha.png') as ImageSourcePropType,
     sorvetechocolate : require('@/assets/images/sorvete-chocolate.png') as ImageSourcePropType,
     sorvetemisto : require('@/assets/images/sorvete-misto.png') as ImageSourcePropType,
+};
